@@ -49,7 +49,7 @@ A comprehensive Streamlit application that provides heart attack risk assessment
 1. **Navigate to the project directory**:
 
    ```bash
-   cd "c:\Users\akinl\OneDrive\Desktop\machine learning\final-year"
+   cd heart-attack-predicton
    ```
 
 2. **Run the Streamlit app**:
